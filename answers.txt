@@ -10,3 +10,9 @@ Answer: Data science can be applied to any field. One example of an application 
 data science is in the medical field. In the medical field, it can be used to 
 analyze large formats of patient data. This analysis can lead to predicting risk
 for diseases, various symptoms, and help doctors make informed decisions.
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: The difference between merging and rebasing is that merging combines
+two branches and creates a new commit with the new version. Alternatively,
+rebasing moves commits from one branch to a different branch. This is much
+cleaner.
