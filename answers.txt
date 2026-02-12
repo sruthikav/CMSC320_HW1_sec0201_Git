@@ -12,7 +12,14 @@ analyze large formats of patient data. This analysis can lead to predicting risk
 for diseases, various symptoms, and help doctors make informed decisions.
 
 Q3: What is the difference between Merging and Rebasing?
+
 Answer: The difference between merging and rebasing is that merging combines
 two branches and creates a new commit with the new version. Alternatively,
 rebasing moves commits from one branch to a different branch. This is much
 cleaner.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning a lot in my classes, 
+and undesrtanding how to apply that knowledge to my career in
+the industry.
